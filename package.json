@@ -46,10 +46,10 @@
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.7"
   },
   "devDependencies": {
-    "@stdlib/array-filled-by": "^0.0.2",
     "@stdlib/assert-has-own-property": "^0.0.7",
     "@stdlib/bench": "^0.0.12",
     "@stdlib/math-base-assert-is-nanf": "^0.0.8",
+    "@stdlib/random-array-discrete-uniform": "github:stdlib-js/random-array-discrete-uniform#main",
     "@stdlib/random-base-discrete-uniform": "^0.0.6",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
@@ -78,6 +78,9 @@
     "blas",
     "level 1",
     "srotg",
+    "givens",
+    "rotation",
+    "matrix",
     "linear",
     "algebra",
     "subroutines",
