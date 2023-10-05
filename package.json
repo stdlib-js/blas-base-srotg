@@ -43,12 +43,12 @@
     "@stdlib/math-base-special-copysignf": "^0.1.0",
     "@stdlib/math-base-special-sqrtf": "^0.1.0",
     "@stdlib/number-float64-base-to-float32": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/assert-has-own-property": "^0.1.0",
+    "@stdlib/assert-has-own-property": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/math-base-assert-is-nanf": "^0.1.0",
+    "@stdlib/math-base-assert-is-nanf": "^0.1.1",
     "@stdlib/random-array-discrete-uniform": "^0.1.0",
     "@stdlib/random-base-discrete-uniform": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
