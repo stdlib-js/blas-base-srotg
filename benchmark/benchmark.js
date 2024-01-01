@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var discreteUniform = require( '@stdlib/random-array-discrete-uniform' );
 var isnanf = require( '@stdlib/math-base-assert-is-nanf' );
 var Float32Array = require( '@stdlib/array-float32' );
