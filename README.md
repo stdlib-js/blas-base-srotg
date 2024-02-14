@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import srotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotg@deno/mod.js';
+import srotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotg@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotg@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotg@v0.2.0-deno/mod.js';
 ```
 
 #### srotg( a, b )
@@ -99,7 +99,7 @@ var bool = ( y === out );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import srotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotg@deno/mod.js';
+import srotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotg@v0.2.0-deno/mod.js';
 
 var out;
 var i;
