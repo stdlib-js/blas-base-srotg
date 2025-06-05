@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5c6db32`](https://github.com/stdlib-js/stdlib/commit/5c6db32796b7e3dab9871a5e3587b3f0ce5453dc) - **refactor:** rename variable in `blas/base/srotg` [(#7209)](https://github.com/stdlib-js/stdlib/pull/7209) _(by Shabareesh Shetty)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Shabareesh Shetty
 
 </section>
 
