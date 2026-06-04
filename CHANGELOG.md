@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-05)
+## Unreleased (2026-06-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
 -   [`5faf52b`](https://github.com/stdlib-js/stdlib/commit/5faf52b86b2a03b2ac4434598792700547a5a81f) - **bench:** refactor to use string interpolation in `blas/base/srotg` [(#10453)](https://github.com/stdlib-js/stdlib/pull/10453) _(by Lokesh Ranjan)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Lokesh Ranjan
+-   Philipp Burckhardt
 
 </section>
 
